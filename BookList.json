@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "author": "J.K. Rowling",
+    "genre": "Fiction",
+    "rating": 3.4,
+    "year": 1988,
+    "borrowCount": 20,
+    "available": true
+  },
+  {
+    "id": 2,
+    "author": "Stephen King",
+    "genre": "Historical",
+    "rating": 2.2,
+    "year": 1978,
+    "borrowCount": 41,
+    "available": true
+  },
+  {
+    "id": 3,
+    "author": "Stephen King",
+    "genre": "Detective",
+    "rating": 1.1,
+    "year": 2000,
+    "borrowCount": 17,
+    "available": true
+  },
+  {
+    "id": 4,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 1.1,
+    "year": 1991,
+    "borrowCount": 15,
+    "available": true
+  },
+  {
+    "id": 5,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "rating": 1.4,
+    "year": 2011,
+    "borrowCount": 18,
+    "available": true
+  },
+  {
+    "id": 6,
+    "author": "George Orwell",
+    "genre": "Sci-Fi",
+    "rating": 4.6,
+    "year": 2005,
+    "borrowCount": 32,
+    "available": true
+  },
+  {
+    "id": 7,
+    "author": "J.R.R. Tolkien",
+    "genre": "Philosophy",
+    "rating": 4.5,
+    "year": 2015,
+    "borrowCount": 34,
+    "available": true
+  },
+  {
+    "id": 8,
+    "author": "J.R.R. Tolkien",
+    "genre": "Romance",
+    "rating": 1.0,
+    "year": 2018,
+    "borrowCount": 19,
+    "available": true
+  },
+  {
+    "id": 9,
+    "author": "Agatha Christie",
+    "genre": "Fantasy",
+    "rating": 2.1,
+    "year": 1957,
+    "borrowCount": 13,
+    "available": true
+  },
+  {
+    "id": 10,
+    "author": "J.R.R. Tolkien",
+    "genre": "Non-Fiction",
+    "rating": 1.6,
+    "year": 2013,
+    "borrowCount": 31,
+    "available": true
+  },
+  {
+    "id": 11,
+    "author": "Agatha Christie",
+    "genre": "Non-Fiction",
+    "rating": 3.1,
+    "year": 2009,
+    "borrowCount": 28,
+    "available": true
+  },
+  {
+    "id": 12,
+    "author": "Stephen King",
+    "genre": "Thriller",
+    "rating": 3.4,
+    "year": 1981,
+    "borrowCount": 17,
+    "available": true
+  },
+  {
+    "id": 13,
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 4.6,
+    "year": 2017,
+    "borrowCount": 8,
+    "available": true
+  },
+  {
+    "id": 14,
+    "author": "Agatha Christie",
+    "genre": "Horror",
+    "rating": 2.8,
+    "year": 1995,
+    "borrowCount": 12,
+    "available": false
+  },
+  {
+    "id": 15,
+    "author": "J.R.R. Tolkien",
+    "genre": "Sci-Fi",
+    "rating": 3.4,
+    "year": 1985,
+    "borrowCount": 5,
+    "available": true
+  },
+  {
+    "id": 16,
+    "author": "J.K. Rowling",
+    "genre": "Non-Fiction",
+    "rating": 4.1,
+    "year": 1973,
+    "borrowCount": 32,
+    "available": true
+  },
+  {
+    "id": 17,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 2.7,
+    "year": 1954,
+    "borrowCount": 47,
+    "available": false
+  },
+  {
+    "id": 18,
+    "author": "Agatha Christie",
+    "genre": "Fiction",
+    "rating": 2.7,
+    "year": 1962,
+    "borrowCount": 43,
+    "available": true
+  },
+  {
+    "id": 19,
+    "author": "J.R.R. Tolkien",
+    "genre": "Non-Fiction",
+    "rating": 4.8,
+    "year": 1972,
+    "borrowCount": 46,
+    "available": true
+  },
+  {
+    "id": 20,
+    "author": "Agatha Christie",
+    "genre": "Detective",
+    "rating": 3.7,
+    "year": 2018,
+    "borrowCount": 28,
+    "available": true
+  },
+  {
+    "id": 21,
+    "author": "Stephen King",
+    "genre": "Mystery",
+    "rating": 2.3,
+    "year": 1993,
+    "borrowCount": 11,
+    "available": false
+  },
+  {
+    "id": 22,
+    "author": "J.R.R. Tolkien",
+    "genre": "Adventure",
+    "rating": 1.8,
+    "year": 2021,
+    "borrowCount": 50,
+    "available": true
+  },
+  {
+    "id": 23,
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "rating": 3.1,
+    "year": 1994,
+    "borrowCount": 26,
+    "available": true
+  },
+  {
+    "id": 24,
+    "author": "J.R.R. Tolkien",
+    "genre": "Non-Fiction",
+    "rating": 3.9,
+    "year": 1982,
+    "borrowCount": 0,
+    "available": true
+  },
+  {
+    "id": 25,
+    "author": "J.K. Rowling",
+    "genre": "Sci-Fi",
+    "rating": 4.0,
+    "year": 1951,
+    "borrowCount": 23,
+    "available": true
+  },
+  {
+    "id": 26,
+    "author": "George Orwell",
+    "genre": "Mystery",
+    "rating": 4.1,
+    "year": 1968,
+    "borrowCount": 32,
+    "available": true
+  },
+  {
+    "id": 27,
+    "author": "Agatha Christie",
+    "genre": "Sci-Fi",
+    "rating": 2.6,
+    "year": 1984,
+    "borrowCount": 28,
+    "available": true
+  },
+  {
+    "id": 28,
+    "author": "Stephen King",
+    "genre": "Sci-Fi",
+    "rating": 4.6,
+    "year": 1950,
+    "borrowCount": 14,
+    "available": true
+  },
+  {
+    "id": 29,
+    "author": "J.K. Rowling",
+    "genre": "Mystery",
+    "rating": 4.6,
+    "year": 1962,
+    "borrowCount": 40,
+    "available": true
+  },
+  {
+    "id": 30,
+    "author": "Agatha Christie",
+    "genre": "Non-Fiction",
+    "rating": 1.9,
+    "year": 1997,
+    "borrowCount": 20,
+    "available": true
+  },
+  {
+    "id": 31,
+    "author": "Stephen King",
+    "genre": "Fiction",
+    "rating": 4.8,
+    "year": 2016,
+    "borrowCount": 7,
+    "available": true
+  },
+  {
+    "id": 32,
+    "author": "Agatha Christie",
+    "genre": "Biography",
+    "rating": 2.8,
+    "year": 1961,
+    "borrowCount": 50,
+    "available": false
+  },
+  {
+    "id": 33,
+    "author": "J.R.R. Tolkien",
+    "genre": "Mystery",
+    "rating": 1.8,
+    "year": 2013,
+    "borrowCount": 18,
+    "available": true
+  },
+  {
+    "id": 34,
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "rating": 2.1,
+    "year": 1968,
+    "borrowCount": 28,
+    "available": true
+  },
+  {
+    "id": 35,
+    "author": "Agatha Christie",
+    "genre": "Non-Fiction",
+    "rating": 1.7,
+    "year": 2014,
+    "borrowCount": 32,
+    "available": true
+  },
+  {
+    "id": 36,
+    "author": "George Orwell",
+    "genre": "Drama",
+    "rating": 2.4,
+    "year": 1960,
+    "borrowCount": 29,
+    "available": false
+  },
+  {
+    "id": 37,
+    "author": "J.R.R. Tolkien",
+    "genre": "Sci-Fi",
+    "rating": 2.9,
+    "year": 1988,
+    "borrowCount": 12,
+    "available": true
+  },
+  {
+    "id": 38,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 2.5,
+    "year": 1975,
+    "borrowCount": 27,
+    "available": true
+  },
+  {
+    "id": 39,
+    "author": "Agatha Christie",
+    "genre": "Fiction",
+    "rating": 2.5,
+    "year": 1987,
+    "borrowCount": 43,
+    "available": true
+  },
+  {
+    "id": 40,
+    "author": "J.K. Rowling",
+    "genre": "Adventure",
+    "rating": 4.2,
+    "year": 1982,
+    "borrowCount": 20,
+    "available": true
+  },
+  {
+    "id": 41,
+    "author": "George Orwell",
+    "genre": "Sci-Fi",
+    "rating": 2.3,
+    "year": 1967,
+    "borrowCount": 42,
+    "available": true
+  },
+  {
+    "id": 42,
+    "author": "Agatha Christie",
+    "genre": "Fantasy",
+    "rating": 2.1,
+    "year": 2014,
+    "borrowCount": 45,
+    "available": true
+  },
+  {
+    "id": 43,
+    "author": "J.R.R. Tolkien",
+    "genre": "Non-Fiction",
+    "rating": 2.5,
+    "year": 2011,
+    "borrowCount": 35,
+    "available": true
+  },
+  {
+    "id": 44,
+    "author": "Stephen King",
+    "genre": "Sci-Fi",
+    "rating": 4.7,
+    "year": 2002,
+    "borrowCount": 29,
+    "available": true
+  },
+  {
+    "id": 45,
+    "author": "Stephen King",
+    "genre": "Non-Fiction",
+    "rating": 3.3,
+    "year": 2001,
+    "borrowCount": 34,
+    "available": true
+  },
+  {
+    "id": 46,
+    "author": "J.R.R. Tolkien",
+    "genre": "Horror",
+    "rating": 4.7,
+    "year": 1984,
+    "borrowCount": 39,
+    "available": true
+  },
+  {
+    "id": 47,
+    "author": "J.K. Rowling",
+    "genre": "Sci-Fi",
+    "rating": 3.0,
+    "year": 2020,
+    "borrowCount": 34,
+    "available": true
+  },
+  {
+    "id": 48,
+    "author": "J.K. Rowling",
+    "genre": "Mystery",
+    "rating": 4.3,
+    "year": 2004,
+    "borrowCount": 3,
+    "available": true
+  },
+  {
+    "id": 49,
+    "author": "Stephen King",
+    "genre": "Historical",
+    "rating": 1.1,
+    "year": 2016,
+    "borrowCount": 49,
+    "available": true
+  },
+  {
+    "id": 50,
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "rating": 1.2,
+    "year": 1992,
+    "borrowCount": 47,
+    "available": true
+  },
+  {
+    "id": 51,
+    "author": "George Orwell",
+    "genre": "Drama",
+    "rating": 1.7,
+    "year": 1950,
+    "borrowCount": 8,
+    "available": true
+  },
+  {
+    "id": 52,
+    "author": "Agatha Christie",
+    "genre": "Fiction",
+    "rating": 2.4,
+    "year": 1984,
+    "borrowCount": 42,
+    "available": true
+  },
+  {
+    "id": 53,
+    "author": "George Orwell",
+    "genre": "Philosophy",
+    "rating": 4.4,
+    "year": 1966,
+    "borrowCount": 11,
+    "available": true
+  },
+  {
+    "id": 54,
+    "author": "J.R.R. Tolkien",
+    "genre": "Biography",
+    "rating": 1.9,
+    "year": 1983,
+    "borrowCount": 45,
+    "available": true
+  },
+  {
+    "id": 55,
+    "author": "Stephen King",
+    "genre": "Fiction",
+    "rating": 1.4,
+    "year": 1993,
+    "borrowCount": 22,
+    "available": true
+  },
+  {
+    "id": 56,
+    "author": "George Orwell",
+    "genre": "Mystery",
+    "rating": 1.9,
+    "year": 2009,
+    "borrowCount": 33,
+    "available": true
+  },
+  {
+    "id": 57,
+    "author": "Stephen King",
+    "genre": "Fantasy",
+    "rating": 2.6,
+    "year": 2000,
+    "borrowCount": 40,
+    "available": true
+  },
+  {
+    "id": 58,
+    "author": "George Orwell",
+    "genre": "Fantasy",
+    "rating": 1.7,
+    "year": 1980,
+    "borrowCount": 24,
+    "available": false
+  },
+  {
+    "id": 59,
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "rating": 3.1,
+    "year": 1967,
+    "borrowCount": 22,
+    "available": true
+  },
+  {
+    "id": 60,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 4.6,
+    "year": 1972,
+    "borrowCount": 15,
+    "available": true
+  },
+  {
+    "id": 61,
+    "author": "Stephen King",
+    "genre": "Fiction",
+    "rating": 2.2,
+    "year": 1979,
+    "borrowCount": 33,
+    "available": true
+  },
+  {
+    "id": 62,
+    "author": "J.K. Rowling",
+    "genre": "Non-Fiction",
+    "rating": 4.6,
+    "year": 2002,
+    "borrowCount": 34,
+    "available": true
+  },
+  {
+    "id": 63,
+    "author": "J.K. Rowling",
+    "genre": "Mystery",
+    "rating": 4.5,
+    "year": 1970,
+    "borrowCount": 3,
+    "available": true
+  },
+  {
+    "id": 64,
+    "author": "Stephen King",
+    "genre": "Drama",
+    "rating": 3.5,
+    "year": 1978,
+    "borrowCount": 29,
+    "available": true
+  },
+  {
+    "id": 65,
+    "author": "J.K. Rowling",
+    "genre": "Non-Fiction",
+    "rating": 4.0,
+    "year": 2006,
+    "borrowCount": 8,
+    "available": true
+  },
+  {
+    "id": 66,
+    "author": "Agatha Christie",
+    "genre": "Biography",
+    "rating": 1.3,
+    "year": 1994,
+    "borrowCount": 33,
+    "available": true
+  },
+  {
+    "id": 67,
+    "author": "J.K. Rowling",
+    "genre": "Thriller",
+    "rating": 3.6,
+    "year": 1950,
+    "borrowCount": 1,
+    "available": true
+  },
+  {
+    "id": 68,
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "rating": 3.2,
+    "year": 1985,
+    "borrowCount": 12,
+    "available": true
+  },
+  {
+    "id": 69,
+    "author": "Agatha Christie",
+    "genre": "Fiction",
+    "rating": 3.9,
+    "year": 1983,
+    "borrowCount": 42,
+    "available": true
+  },
+  {
+    "id": 70,
+    "author": "J.R.R. Tolkien",
+    "genre": "Mystery",
+    "rating": 2.6,
+    "year": 2004,
+    "borrowCount": 46,
+    "available": true
+  },
+  {
+    "id": 71,
+    "author": "Agatha Christie",
+    "genre": "Biography",
+    "rating": 3.5,
+    "year": 1967,
+    "borrowCount": 16,
+    "available": true
+  },
+  {
+    "id": 72,
+    "author": "George Orwell",
+    "genre": "Historical",
+    "rating": 1.3,
+    "year": 1985,
+    "borrowCount": 22,
+    "available": true
+  },
+  {
+    "id": 73,
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 1.0,
+    "year": 1973,
+    "borrowCount": 19,
+    "available": true
+  },
+  {
+    "id": 74,
+    "author": "J.K. Rowling",
+    "genre": "Fiction",
+    "rating": 1.4,
+    "year": 2000,
+    "borrowCount": 38,
+    "available": true
+  },
+  {
+    "id": 75,
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "rating": 1.8,
+    "year": 1978,
+    "borrowCount": 7,
+    "available": true
+  },
+  {
+    "id": 76,
+    "author": "Agatha Christie",
+    "genre": "Historical",
+    "rating": 3.2,
+    "year": 1994,
+    "borrowCount": 7,
+    "available": true
+  },
+  {
+    "id": 77,
+    "author": "J.R.R. Tolkien",
+    "genre": "Mystery",
+    "rating": 4.2,
+    "year": 2000,
+    "borrowCount": 43,
+    "available": false
+  },
+  {
+    "id": 78,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 3.2,
+    "year": 1989,
+    "borrowCount": 37,
+    "available": true
+  },
+  {
+    "id": 79,
+    "author": "George Orwell",
+    "genre": "Mystery",
+    "rating": 3.1,
+    "year": 2011,
+    "borrowCount": 43,
+    "available": true
+  },
+  {
+    "id": 80,
+    "author": "J.K. Rowling",
+    "genre": "Mystery",
+    "rating": 4.2,
+    "year": 1994,
+    "borrowCount": 8,
+    "available": false
+  },
+  {
+    "id": 81,
+    "author": "J.R.R. Tolkien",
+    "genre": "Non-Fiction",
+    "rating": 1.4,
+    "year": 1989,
+    "borrowCount": 5,
+    "available": true
+  },
+  {
+    "id": 82,
+    "author": "Agatha Christie",
+    "genre": "Fantasy",
+    "rating": 2.8,
+    "year": 1978,
+    "borrowCount": 0,
+    "available": false
+  },
+  {
+    "id": 83,
+    "author": "J.K. Rowling",
+    "genre": "Thriller",
+    "rating": 4.5,
+    "year": 2005,
+    "borrowCount": 29,
+    "available": true
+  },
+  {
+    "id": 84,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "rating": 4.1,
+    "year": 1967,
+    "borrowCount": 37,
+    "available": true
+  },
+  {
+    "id": 85,
+    "author": "Stephen King",
+    "genre": "Poetry",
+    "rating": 2.2,
+    "year": 1969,
+    "borrowCount": 19,
+    "available": true
+  },
+  {
+    "id": 86,
+    "author": "Agatha Christie",
+    "genre": "Non-Fiction",
+    "rating": 1.9,
+    "year": 1989,
+    "borrowCount": 26,
+    "available": true
+  },
+  {
+    "id": 87,
+    "author": "J.K. Rowling",
+    "genre": "Sci-Fi",
+    "rating": 3.0,
+    "year": 1966,
+    "borrowCount": 16,
+    "available": true
+  },
+  {
+    "id": 88,
+    "author": "Stephen King",
+    "genre": "Mystery",
+    "rating": 3.8,
+    "year": 1965,
+    "borrowCount": 45,
+    "available": true
+  },
+  {
+    "id": 89,
+    "author": "J.K. Rowling",
+    "genre": "Fiction",
+    "rating": 2.5,
+    "year": 1966,
+    "borrowCount": 0,
+    "available": true
+  },
+  {
+    "id": 90,
+    "author": "J.R.R. Tolkien",
+    "genre": "Mystery",
+    "rating": 3.6,
+    "year": 2008,
+    "borrowCount": 15,
+    "available": true
+  },
+  {
+    "id": 91,
+    "author": "J.R.R. Tolkien",
+    "genre": "Romance",
+    "rating": 4.5,
+    "year": 1978,
+    "borrowCount": 39,
+    "available": true
+  },
+  {
+    "id": 92,
+    "author": "J.R.R. Tolkien",
+    "genre": "Sci-Fi",
+    "rating": 2.3,
+    "year": 2000,
+    "borrowCount": 31,
+    "available": false
+  },
+  {
+    "id": 93,
+    "author": "George Orwell",
+    "genre": "Non-Fiction",
+    "rating": 1.8,
+    "year": 1977,
+    "borrowCount": 11,
+    "available": true
+  },
+  {
+    "id": 94,
+    "author": "J.R.R. Tolkien",
+    "genre": "Philosophy",
+    "rating": 3.0,
+    "year": 1955,
+    "borrowCount": 34,
+    "available": false
+  },
+  {
+    "id": 95,
+    "author": "J.R.R. Tolkien",
+    "genre": "Philosophy",
+    "rating": 1.1,
+    "year": 1972,
+    "borrowCount": 12,
+    "available": true
+  },
+  {
+    "id": 96,
+    "author": "Stephen King",
+    "genre": "Mystery",
+    "rating": 4.5,
+    "year": 1957,
+    "borrowCount": 49,
+    "available": true
+  },
+  {
+    "id": 97,
+    "author": "J.R.R. Tolkien",
+    "genre": "Horror",
+    "rating": 2.3,
+    "year": 2017,
+    "borrowCount": 16,
+    "available": true
+  },
+  {
+    "id": 98,
+    "author": "George Orwell",
+    "genre": "Poetry",
+    "rating": 2.1,
+    "year": 1973,
+    "borrowCount": 6,
+    "available": true
+  },
+  {
+    "id": 99,
+    "author": "Stephen King",
+    "genre": "Drama",
+    "rating": 1.9,
+    "year": 1968,
+    "borrowCount": 10,
+    "available": true
+  },
+  {
+    "id": 100,
+    "author": "J.R.R. Tolkien",
+    "genre": "Horror",
+    "rating": 3.7,
+    "year": 1957,
+    "borrowCount": 17,
+    "available": true
+  }
+]

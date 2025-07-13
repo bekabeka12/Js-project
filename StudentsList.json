@@ -1,0 +1,566 @@
+[
+  {
+    "username": "alice",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 82,
+        "genre": "Fantasy",
+        "borrowDate": "2025-06-20",
+        "author": "Agatha Christie",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 17,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-01",
+        "author": "J.R.R. Tolkien",
+        "returned": false
+      },
+      {
+        "id": 3,
+        "bookId": 21,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-05",
+        "author": "Stephen King",
+        "returned": false
+      }
+    ],
+    "penaltyPoints": 6.49
+  },
+  {
+    "username": "bob",
+    "borrowedBooks": [],
+    "penaltyPoints": 0
+  },
+  {
+    "username": "charlie",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 15,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-06-29",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 3.94
+  },
+  {
+    "username": "david",
+    "borrowedBooks": [],
+    "penaltyPoints": 0
+  },
+  {
+    "username": "eve",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 77,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-03",
+        "author": "J.R.R. Tolkien",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 32,
+        "genre": "Biography",
+        "borrowDate": "2025-07-03",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 36,
+        "genre": "Drama",
+        "borrowDate": "2025-07-03",
+        "author": "George Orwell",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 5.65
+  },
+  {
+    "username": "frank",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 96,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-01",
+        "author": "Stephen King",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 61,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-01",
+        "author": "Stephen King",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 11,
+        "genre": "Non-Fiction",
+        "borrowDate": "2025-07-01",
+        "author": "Agatha Christie",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 5.13
+  },
+  {
+    "username": "grace",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 59,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-04",
+        "author": "George Orwell",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 46,
+        "genre": "Horror",
+        "borrowDate": "2025-07-04",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 17,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-04",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 7.18
+  },
+  {
+    "username": "heidi",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 32,
+        "genre": "Biography",
+        "borrowDate": "2025-06-27",
+        "author": "Agatha Christie",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 50,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-27",
+        "author": "George Orwell",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 69,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-27",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-27",
+        "author": "J.K. Rowling",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 6,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-06-27",
+        "author": "George Orwell",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 0.05
+  },
+  {
+    "username": "ivan",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 13,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-07",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 47,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-07-07",
+        "author": "J.K. Rowling",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 20,
+        "genre": "Detective",
+        "borrowDate": "2025-07-07",
+        "author": "Agatha Christie",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 6.56
+  },
+  {
+    "username": "judy",
+    "borrowedBooks": [],
+    "penaltyPoints": 0
+  },
+  {
+    "username": "karen",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 36,
+        "genre": "Drama",
+        "borrowDate": "2025-06-20",
+        "author": "George Orwell",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 73,
+        "genre": "Mystery",
+        "borrowDate": "2025-06-20",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 92,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-06-23",
+        "author": "J.R.R. Tolkien",
+        "returned": false
+      },
+      {
+        "id": 4,
+        "bookId": 75,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-20",
+        "author": "George Orwell",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 78,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-20",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 3.97
+  },
+  {
+    "username": "leo",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 58,
+        "genre": "Fantasy",
+        "borrowDate": "2025-06-28",
+        "author": "George Orwell",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 79,
+        "genre": "Mystery",
+        "borrowDate": "2025-06-28",
+        "author": "George Orwell",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 8.08
+  },
+  {
+    "username": "mallory",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 18,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-08",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 36,
+        "genre": "Drama",
+        "borrowDate": "2025-07-08",
+        "author": "George Orwell",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 7.23
+  },
+  {
+    "username": "nancy",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 94,
+        "genre": "Philosophy",
+        "borrowDate": "2025-06-26",
+        "author": "J.R.R. Tolkien",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 39,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-26",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 14,
+        "genre": "Horror",
+        "borrowDate": "2025-06-26",
+        "author": "Agatha Christie",
+        "returned": false
+      },
+      {
+        "id": 4,
+        "bookId": 84,
+        "genre": "Fiction",
+        "borrowDate": "2025-06-26",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 21,
+        "genre": "Mystery",
+        "borrowDate": "2025-06-26",
+        "author": "Stephen King",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 4.14
+  },
+  {
+    "username": "oscar",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 60,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-12",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 64,
+        "genre": "Drama",
+        "borrowDate": "2025-07-12",
+        "author": "Stephen King",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 19,
+        "genre": "Non-Fiction",
+        "borrowDate": "2025-07-12",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 27,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-07-12",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 24,
+        "genre": "Non-Fiction",
+        "borrowDate": "2025-07-12",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 4.28
+  },
+  {
+    "username": "peggy",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 29,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-02",
+        "author": "J.K. Rowling",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 25,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-07-02",
+        "author": "J.K. Rowling",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 78,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-02",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 35,
+        "genre": "Non-Fiction",
+        "borrowDate": "2025-07-02",
+        "author": "Agatha Christie",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 4.12
+  },
+  {
+    "username": "quinn",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 88,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-09",
+        "author": "Stephen King",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 78,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-09",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 37,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-07-09",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 22,
+        "genre": "Adventure",
+        "borrowDate": "2025-07-09",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 44,
+        "genre": "Sci-Fi",
+        "borrowDate": "2025-07-09",
+        "author": "Stephen King",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 9.19
+  },
+  {
+    "username": "ruth",
+    "borrowedBooks": [],
+    "penaltyPoints": 0
+  },
+  {
+    "username": "sam",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 80,
+        "genre": "Mystery",
+        "borrowDate": "2025-06-23",
+        "author": "J.K. Rowling",
+        "returned": false
+      },
+      {
+        "id": 2,
+        "bookId": 94,
+        "genre": "Philosophy",
+        "borrowDate": "2025-06-23",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 7.83
+  },
+  {
+    "username": "trent",
+    "borrowedBooks": [
+      {
+        "id": 1,
+        "bookId": 36,
+        "genre": "Drama",
+        "borrowDate": "2025-07-11",
+        "author": "George Orwell",
+        "returned": true
+      },
+      {
+        "id": 2,
+        "bookId": 33,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-11",
+        "author": "J.R.R. Tolkien",
+        "returned": true
+      },
+      {
+        "id": 3,
+        "bookId": 80,
+        "genre": "Mystery",
+        "borrowDate": "2025-07-11",
+        "author": "J.K. Rowling",
+        "returned": true
+      },
+      {
+        "id": 4,
+        "bookId": 52,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-11",
+        "author": "Agatha Christie",
+        "returned": true
+      },
+      {
+        "id": 5,
+        "bookId": 39,
+        "genre": "Fiction",
+        "borrowDate": "2025-07-11",
+        "author": "Agatha Christie",
+        "returned": true
+      }
+    ],
+    "penaltyPoints": 7.96
+  }
+]
