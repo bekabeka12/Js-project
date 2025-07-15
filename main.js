@@ -34,12 +34,14 @@ const student =   {
 
 const LibraryData = new UniversityLibrary(books, students)
 
+//Test methods
+
 // console.log(LibraryData.getTopRatedBooks(10))
 // console.log(LibraryData.searchBooksBy("available", false))
 // console.log(LibraryData.addBook(student))
 // console.log(LibraryData.removeBook(100))
 // console.log(LibraryData.checkOverdueUsers())
-// console.log(LibraryData.returnedBook("alice", 82))
+// console.log(LibraryData.returnBook("alice", 82))
 // console.log(LibraryData.borrowBook("beka", 8))
 // console.log(LibraryData.printUserSummary("nancy"))
-// console.log(LibraryData.recomenBooks("alice"))
+// console.log(LibraryData.recomendBooks("alice"))
