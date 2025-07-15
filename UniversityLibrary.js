@@ -265,7 +265,7 @@ export class UniversityLibrary {
     })
 
     //total penaltypoints
-    let totalPenaltyScoreString = "\nTotal Penalty Score: " + studentMatch.penaltyPoints
+    let totalPenaltyScoreString = "\nTotal Penalty Score: " + studentMatch.getPenaltyPoints()
 
     return borrowedBooksString + overdueItemsString + totalPenaltyScoreString;
   }
